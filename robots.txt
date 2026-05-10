@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://devyaniyenurkar247.github.io/sitemap.xml
